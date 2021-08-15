@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkphazex
 - 👀 I’m interested in ... learning new stuff
 - 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ... nothoing
+- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... well email me @darkphaze@protonmail.com
 
 <!---
